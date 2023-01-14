@@ -1,2 +1,4 @@
-# time_block_planner
-DIY Time Block Planner document
+
+# Kind Of a DIY Poor Man's Time Block Planner document
+
+https://www.timeblockplanner.com/
